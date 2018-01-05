@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="prvo_dugme">Prvo dugme</string>
+    <string name="zbir">zbir</string>
+    <string name="drugo_dugme">Drugo dugme</string>
+    <string name="nasumican_broj">nasumican broj</string>
+    <string name="trece_dugme">trece dugme</string>
+    <string name="dodaj_prvi_broj">dodaj prvi broj</string>
+    <string name="dodaj_drugi_broj">dodaj drugi broj</string>
+    <string name="saberi">Saberi</string>
+    <string name="random">Random</string>
+</resources>
